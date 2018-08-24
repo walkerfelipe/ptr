@@ -54,7 +54,6 @@ void loop() {
   buttonState = digitalRead(buttonPin);
 
   if (buttonState == LOW) {
-    // liga o LED:
     if (minutos < 59)
       minutos++;
     else {
