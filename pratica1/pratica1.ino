@@ -1,4 +1,5 @@
-
+//https://www.filipeflop.com/blog/controlando-um-lcd-16x2-com-arduino/
+//https://www.arduino.cc/en/Tutorial/Button  
 #include <LiquidCrystal.h>
 
 /*
